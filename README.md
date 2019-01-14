@@ -1,0 +1,1 @@
+A basic React project to be integrated with Spring Boot and Gradle
